@@ -1,4 +1,3 @@
-```markdown
 # DevOps & SRE Daily Challenge
 
 ## Why DevOps & SRE are Needed in the Application Release Process
@@ -58,4 +57,3 @@ The roles of DevOps and SRE engineers overlap in many areas but also have distin
 - Both DevOps and SRE are crucial for modern software delivery, ensuring faster, more reliable, and scalable application releases.
 - Understanding the synergy between DevOps and SRE can help you align your career goals with the right path in cloud-native development.
 
-```
